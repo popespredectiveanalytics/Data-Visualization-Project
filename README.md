@@ -1,5 +1,5 @@
 # Data-Visualization-Project
-This is an example of a data visualization projectr that I have done in the past. 
+This is an example of a data visualization project that I have done in the past. 
 
  Data Visualization
 #
